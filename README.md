@@ -46,29 +46,6 @@
 
 ---
 
-<img width="641" height="62" alt="image" src="https://github.com/user-attachments/assets/4f9ccb6f-26da-4d28-b2cd-450a87308410" />
-
-* <h4>Explore the Learning Journal</h4>
-
-* <h4>A structured, project-driven repository covering systems, networking, cybersecurity, DevOps, cloud infrastructure, platform engineering and AI security.</h4>
-
-* <h4>Documentation</h4>
-
-* <h4>Turkish and English technical notes</h4>
-
-* <h4>Clear explanations and reference material</h4>
-
-* <h4>Engineering analysis</h4>
-
-* <h4>Protocol, architecture and data-flow analysis</h4>
-
-* <h4>Security risks, limitations and defensive controls</h4>
-
-* <h4>Practical work</h4>
-
-* <h4>Commands, validation steps and troubleshooting</h4>
-
-* <h4>Progressively advanced portfolio projects</h4>
 
 ---
 
