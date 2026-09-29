@@ -27,19 +27,6 @@
 
 <h3><strong>Computer Engineering student building strong foundations across systems, infrastructure, automation, cloud, reliability and security engineering.</strong></h1>
 
-<br><br>
-
-<p>
-  <a href="https://github.com/ozancantbs/Learning-Journal">
-    <img width="410" height="48" alt="image" src="https://github.com/user-attachments/assets/a5b98134-180a-41d3-88e2-3cf1483888d4" />
-  </a>
-  <a href="https://github.com/ozancantbs/Learning-Journal/blob/main/Road_Map.pdf">
-   <img width="360" height="48" alt="image" src="https://github.com/user-attachments/assets/c0cb9551-7502-42b8-82ae-83e63616952a" />
-  </a>
-</p>
-
-</div>
-
 ---
 
 <img width="210" height="74" alt="image" src="https://github.com/user-attachments/assets/69546d64-7f9d-4836-863d-6f977c8f2d7e" />
