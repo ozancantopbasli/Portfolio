@@ -69,7 +69,7 @@
 ---
 
 <h4>
-  <a href="https://github.com/ozancantbs/World-cup-database-management">
+  <a href="https://github.com/ozancantopbasli/Academic-Projects/tree/main/Relational%20Database%20Management%20System%20(World%20Cup)%20(RDBMS)">
    <img width="488" height="62" alt="image" src="https://github.com/user-attachments/assets/8ed93fe7-069a-4b76-9048-f4a3c440feb6" />
   </a>
 </h4>
