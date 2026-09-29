@@ -42,7 +42,6 @@
 
 * <h4>Cloud, container and platform security</h4>
 
-* <h4>Technical documentation in English and Turkish</h4>
 
 ---
 
