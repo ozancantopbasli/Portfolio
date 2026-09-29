@@ -92,7 +92,7 @@
 </p>
 
 <p>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ozancyberengineer@gmail.com&su=GitHub%20Contact">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ozancantopbasli@gmail.com&su=GitHub%20Contact">
     <img
       <img width="281" height="57" alt="image" src="https://github.com/user-attachments/assets/fe3017b9-2172-496a-a947-6e7e5de7d559" />
   </a>
