@@ -47,30 +47,6 @@
 ---
 
 
----
-
-<img width="298" height="63" alt="image" src="https://github.com/user-attachments/assets/5b8a1662-329e-412e-8fb0-40c4882380bb" />
-
-* <h4>The roadmap transforms documented knowledge into practical, production-oriented work involving:
-
-* <h4>Hardened Linux infrastructure and security monitoring</h4>
-
-* <h4>Secure container platforms and Kubernetes environments</h4>
-
-* <h4>Infrastructure as Code and automated configuration management</h4>
-
-* <h4>Secure CI/CD, software supply-chain controls and GitOps delivery</h4>
-
-* <h4>AWS architectures, high availability and disaster recovery</h4>
-
-* <h4>Centralized metrics, logging, tracing and actionable alerting</h4>
-
-* <h4>Performance testing, reliability validation and incident response</h4>
-
-* <h4>Security-focused platform automation and AI systems security</h4>
-
----
-
 <p align="center">
   <img
     <img width="273" height="60" alt="image" src="https://github.com/user-attachments/assets/a98ab35c-57cd-4d1e-9c8f-6d8ea14d87a3" />
