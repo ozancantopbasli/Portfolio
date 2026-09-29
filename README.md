@@ -58,7 +58,7 @@
 
 <h4>
   <a href="https://github.com/ozancantbs/New-University-Student-Portal-">
-    <img width="419" height="70" alt="image" src="https://github.com/user-attachments/assets/d1d1b257-59e5-47b5-9ac7-66988f85b1e9" /><a href="[https://github.com/ozancantbs/New-University-Student-Portal-](https://github.com/ozancantopbasli/Academic-Projects/tree/main/Full-Stack%20Student%20Information%20System%20(SIS)%20Project)">
+    <img width="419" height="70" alt="image" src="https://github.com/user-attachments/assets/d1d1b257-59e5-47b5-9ac7-66988f85b1e9" /><a href="https://github.com/ozancantopbasli/Academic-Projects/tree/main/Full Stack%20Student%20Information%20System%20(SIS)%20Project">
   </a>
 </h4>
 <h4>
